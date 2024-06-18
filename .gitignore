@@ -1,0 +1,8 @@
+env/
+dados/
+load_sensor.py
+load_luminosidade.py
+load_temperature.py
+load_umidade.py
+old-db.sqlite3
+old2-db.sqlite3
